@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Nitish Putrevu
 
 You can use the [editor on GitHub](https://github.com/nitish22066/guitnit.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

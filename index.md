@@ -1,37 +1,45 @@
 ## Nitish Putrevu
 
-You can use the [editor on GitHub](https://github.com/nitish22066/guitnit.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+##About me
+I'm a second-year Physics and Electronics and Instrumentation undergraduate at BITS Pilani K.K. Birla Goa Campus.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have an avid interest in Quantum Computing,
+Data Science, Machine Learning, Deep Learning, Natural Language Processing and Computer Vision and in their real life applications. I am currently working on Projects related to them, and occasionally participate in ML Hackathons.
 
-### Markdown
+Linkedin -https://www.linkedin.com/in/nitish-putrevu/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Github -https://github.com/nitish22066
 
-```markdown
-Syntax highlighted code block
+Kaggle -https://www.kaggle.com/nitishputrevu
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Experience
+1)IoT & Computer Vision intern
+Company Name-The Sparks Foundation Internship
+(Nov 2021 – Dec 2021)
+Employment Duration-1 month
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+# Education
+Education
+1)Birla Institute of Technology and Science, Pilani - Goa Campus
+Bachelor of Engineering - BE Electronics and Instrumentation
+(2021-2025)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+2)Birla Institute of Technology and Science, Pilani - Goa Campus
+Masters Degree-Msc Physics
+(2020 – 2025)
 
-### Jekyll Themes
+## Projects
+ 
+1)Fine Tune BERT for Text Classification with TensorFlow
+Aug 2021 - Aug 2021
+https://www.coursera.org/account/accomplishments/verify/P97S7UYGXCP2
+ 
+2)Classifying healthy Lagrangians using Machine Learning
+Dec 2021 - Present
+https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nitish22066/guitnit.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
